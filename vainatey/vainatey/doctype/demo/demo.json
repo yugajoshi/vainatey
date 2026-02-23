@@ -39,13 +39,14 @@
   {
    "fieldname": "adhaar_number",
    "fieldtype": "Data",
-   "label": "Adhaar Number"
+   "label": "Adhaar Number",
+   "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 22:34:23.332526",
+ "modified": "2026-02-23 22:39:01.658259",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
