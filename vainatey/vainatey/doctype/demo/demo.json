@@ -7,7 +7,8 @@
  "field_order": [
   "first_name",
   "last_name",
-  "full_name"
+  "full_name",
+  "address"
  ],
  "fields": [
   {
@@ -28,12 +29,17 @@
    "fieldtype": "Data",
    "label": "Full Name",
    "read_only": 1
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Data",
+   "label": "Address"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 22:10:43.560628",
+ "modified": "2026-02-23 22:19:19.633099",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
