@@ -26,13 +26,14 @@
   {
    "fieldname": "full_name",
    "fieldtype": "Data",
-   "label": "Full Name"
+   "label": "Full Name",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 21:24:46.466273",
+ "modified": "2026-02-23 21:41:38.547530",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
