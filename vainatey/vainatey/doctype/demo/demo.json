@@ -6,7 +6,8 @@
  "engine": "InnoDB",
  "field_order": [
   "first_name",
-  "last_name"
+  "last_name",
+  "full_name"
  ],
  "fields": [
   {
@@ -18,12 +19,17 @@
    "fieldname": "last_name",
    "fieldtype": "Data",
    "label": "Last Name"
+  },
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 20:23:06.662240",
+ "modified": "2026-02-23 21:10:53.202007",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
