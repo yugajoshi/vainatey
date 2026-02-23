@@ -8,7 +8,8 @@
   "first_name",
   "last_name",
   "full_name",
-  "address"
+  "address",
+  "yes"
  ],
  "fields": [
   {
@@ -34,12 +35,18 @@
    "fieldname": "address",
    "fieldtype": "Data",
    "label": "Address"
+  },
+  {
+   "default": "0",
+   "fieldname": "yes",
+   "fieldtype": "Check",
+   "label": "Yes"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 22:19:19.633099",
+ "modified": "2026-02-23 22:23:27.736129",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
