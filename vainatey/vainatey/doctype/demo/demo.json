@@ -24,7 +24,6 @@
    "reqd": 1
   },
   {
-   "bold": 1,
    "fieldname": "full_name",
    "fieldtype": "Data",
    "label": "Full Name",
@@ -34,7 +33,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 22:06:19.045889",
+ "modified": "2026-02-23 22:10:43.560628",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
