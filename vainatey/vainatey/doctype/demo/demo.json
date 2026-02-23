@@ -5,19 +5,25 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "first_name"
+  "first_name",
+  "last_name"
  ],
  "fields": [
   {
    "fieldname": "first_name",
    "fieldtype": "Data",
    "label": "First Name"
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "label": "Last Name"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 20:06:34.287027",
+ "modified": "2026-02-23 20:23:06.662240",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
