@@ -8,7 +8,8 @@
   "first_name",
   "last_name",
   "full_name",
-  "address"
+  "address",
+  "adhaar_number"
  ],
  "fields": [
   {
@@ -34,12 +35,17 @@
    "fieldname": "address",
    "fieldtype": "Data",
    "label": "Address"
+  },
+  {
+   "fieldname": "adhaar_number",
+   "fieldtype": "Data",
+   "label": "Adhaar Number"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-02-23 22:30:10.993376",
+ "modified": "2026-02-23 22:34:23.332526",
  "modified_by": "Administrator",
  "module": "Vainatey",
  "name": "Demo",
